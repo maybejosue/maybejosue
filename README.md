@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Software Developer with expertise in creating front-end and back-end applications. Skilled with JavaScript, Python, React, Redux, Node, and Jest.
 
 In my spare time, I love to watch anime, read manga and immerse myself in sneaker-twitter.
