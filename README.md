@@ -4,7 +4,7 @@ Software Developer with expertise in creating front-end and back-end application
 
 In my spare time, I love to watch anime, read manga and immerse myself in sneaker-twitter.
 
-If you'd like to know more about me or how I operate, note the link to my portfolio below! Thanks for reading and stay safe.
+If you'd like to know more about me or how I operate, don't be afraid to shoot me a message on LinkedIn. I'm always excited to connect with other developers!
 
 📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/maybejosue/)
 
