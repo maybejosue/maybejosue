@@ -3,7 +3,7 @@
 
 JavaScript • React • Python • Node • HTML5 • CSS3
 
-[josuerodriguez.me](https://www.josuerodriguez.me) • [linkedin.com/in/maybejosue](https://www.linkedin.com/in/maybejosue/) • [maybejosue@gmail.com](mailto:maybejosue@gmail.com)
+[maybejosue.com](https://www.maybejosue.com) • [linkedin.com/in/maybejosue](https://www.linkedin.com/in/maybejosue/) • [maybejosue@gmail.com](mailto:maybejosue@gmail.com)
 
 Passionate about JavaScript and Python.
 
