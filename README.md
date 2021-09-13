@@ -1,7 +1,7 @@
 # Josue Rodriguez
 ### Software Engineer
 
-JavaScript • React • Python • Node • HTML5 • CSS3
+JavaScript • Python • HTML5 • CSS3
 
 [maybejosue.com](https://www.maybejosue.com) • [linkedin.com/in/maybejosue](https://www.linkedin.com/in/maybejosue/) • [maybejosue@gmail.com](mailto:maybejosue@gmail.com)
 
