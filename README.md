@@ -3,7 +3,7 @@
 
 JavaScript • Python • HTML5 • CSS3
 
-[maybejosue.com](https://www.maybejosue.com) • [linkedin.com/in/maybejosue](https://www.linkedin.com/in/maybejosue/) • [maybejosue@gmail.com](mailto:maybejosue@gmail.com)
+[Linktree / Contact](https://linktr.ee/maybejosue)
 
 Passionate about JavaScript and Python.
 
